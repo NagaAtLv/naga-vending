@@ -1,6 +1,3 @@
-# naga-vending
-Vending Machine Coding Test Programming implemented in Java 8 and Gradle.
-
 Naga-Vending Machine
 
 This is a implementation of the below requirement
@@ -32,3 +29,7 @@ I have written JUnit test class [ChangeBuilderServiceTest] for ChangeBuilderServ
 I have created inventory properties files under resources folder one for normail application one for Unit testing.
 
 I have also created InsufficientCoinsException class, Service throws this exception when Vending machine unable to supply required coins.
+
+
+
+ 

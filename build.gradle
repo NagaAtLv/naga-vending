@@ -1,0 +1,19 @@
+apply plugin: 'java'
+apply plugin: 'maven'
+apply plugin: 'idea'
+apply plugin: 'eclipse-wtp'
+
+group = 'com.naga.kcomtest'
+
+sourceCompatibility = 1.8 // java 8
+
+repositories {
+  mavenCentral()
+}
+
+dependencies {
+  
+  testCompile 'junit:junit:4.11'
+  
+  
+  }
