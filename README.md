@@ -4,8 +4,10 @@ This is a implementation of the below requirement
 
 User Story:
 
-Part 1  ->  	Implement the logic for a vending machine that will return the optimal change for a given number of pence.
-Part 2  ->  	Implement a method to get the change for a given number of pence based on a limited supply of coins. 
+Part 1:	Implement the logic for a vending machine that will return the optimal change for a given number of pence.
+
+
+Part 2:Implement a method to get the change for a given number of pence based on a limited supply of coins. 
 
 
 
